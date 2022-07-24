@@ -1,0 +1,89 @@
+/********************************************* BODY ****************************************************/
+.nav-item {
+  font-size: 120%; }
+
+body {
+  background-image: linear-gradient(180deg, #474747 0%, #057dc7 100%);}
+
+* {
+  padding: 0%;
+  margin: 0%; }
+
+.imagenPortada {
+  height: 90%;
+  width: 100%; }
+
+h2 {
+  font-size: 380%;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  margin: 3% 0% 3% 0%; }
+
+  .staff{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
+
+  h5{
+    color: white;
+    padding-bottom: 5%;
+  }
+
+h1,
+h3 {
+  font-size: 380%;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  margin: 3% 0% 3% 0%; }
+
+  p{
+    font-size: 120%;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  margin: 3% 0% 3% 0%;
+  }
+
+.nosotros {
+  padding: 3% 6% 3% 6%; }
+
+  .nav-link{
+    color: white;
+  }
+
+/********************************************* MAIN ****************************************************/
+.nosotros {
+  text-align: center; }
+
+.produc {
+  padding: 3% 6% 3% 6%;}
+
+  .card-body{
+
+  text-align: center;}
+
+  .card-title,
+  .card-text{
+    color: black;
+  }
+
+.card {
+  margin: 1%; 
+  align-items: center;
+  margin-left: 20%;}
+
+.redes {
+  text-align: center;
+  padding: 3% 6% 3% 6%; }
+
+.icono {
+  margin: 4%; }
+
+.piePagina {
+  text-align: center;
+  padding-top: 1%; }
+  .piePagina .navFooter {
+    padding-bottom: 2%;
+  }

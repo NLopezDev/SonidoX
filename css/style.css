@@ -18,7 +18,6 @@ body {
   color: white;
   text-decoration: overline;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
   margin: 15% 0% 45% 0%; }
 
 h2 {
@@ -42,14 +41,12 @@ h3 {
   font-size: 380%;
   color: white;
   text-align: center;
-  font-family: cursive;
   margin: 3% 0% 3% 0%; }
 
   p{
     font-size: 120%;
   color: white;
   text-align: center;
-  font-family: cursive;
   margin: 3% 0% 3% 0%;
   }
 
